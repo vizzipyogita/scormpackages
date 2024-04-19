@@ -1,0 +1,114 @@
+@media only screen and (max-width: 767px) {
+    .banner-text {
+        font-size: 40.75px !important;
+    }
+    .next-icon {
+        display: none!important;
+    }
+    .prev-icon {
+        display: none!important;
+    }
+    .carousel-control-prev {
+        display: none !important;
+    }
+    .carousel-control-next {
+        display: none !important;
+    }
+    .bx-prev2,
+    .bx-next2 {
+        display: flex !important;
+    }
+    .bx-prev3,
+    .bx-next3 {
+        display: flex !important;
+    }
+    .bx-prev4,
+    .bx-next4 {
+        display: flex !important;
+    }
+    .bx-prev5,
+    .bx-next5 {
+        display: none !important;
+    }
+    .bx-controls-direction {
+        display: flex !important;
+    }
+    .login-form {
+        height: 100%!important;
+    }
+    .login-section h1 {
+        font-size: 34px !important;
+        line-height: 60px !important;
+    }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    .banner-text {
+        font-size: 49.75px !important;
+    }
+    .next-icon {
+        display: none!important;
+    }
+    .prev-icon {
+        display: none!important;
+    }
+    .carousel-control-prev {
+        display: none !important;
+    }
+    .carousel-control-next {
+        display: none !important;
+    }
+    .bx-prev,
+    .bx-next {
+        display: flex !important;
+    }
+    .bx-prev2,
+    .bx-next2 {
+        display: flex !important;
+    }
+    .bx-prev3,
+    .bx-next3 {
+        display: flex !important;
+    }
+    .bx-prev4,
+    .bx-next4 {
+        display: flex !important;
+    }
+    .bx-prev5,
+    .bx-next5 {
+        display: flex !important;
+    }
+    .bx-controls-direction {
+        display: flex !important;
+    }
+    .login-form {
+        height: 100%!important;
+    }
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+    .banner-prev {
+        top: 100% !important;
+        left: 10px !important;
+    }
+    .banner-next {
+        top: 100% !important;
+        right: 85% !important;
+    }
+    .carousel-control-prev {
+        width: 30px !important;
+        height: 30px !important;
+    }
+    .carousel-control-next {
+        width: 30px !important;
+        height: 30px !important;
+    }
+    .bx-prev,
+    .bx-next {
+        display: none !important;
+    }
+}
+
+@media only screen and (min-width: 1200px) and (max-width: 1399px) {}
+
+@media only screen and (min-width: 1400px) and (max-width: 5000px) {}

@@ -1,0 +1,76 @@
+/*************************Common*****************************/
+
+.parsley-required{
+	color:red !important;
+}
+.parsley-min{
+	color:red !important;
+}
+.parsley-minlength{
+	color:red !important;
+}
+.parsley-type{
+	color:red !important;
+}
+.parsley-pattern{
+    color:red !important;
+}
+.parsley-maxlength{
+    color:red !important;
+}
+
+.hide{
+	display:none;
+}
+.dataTables_filter{
+	margin-bottom: 15px !important;
+}
+.avatar-wrapper{
+	margin-left: 10px !important;
+}
+
+.basic-plan{
+	width: 40% !important;
+	padding: 20px !important;
+}
+.subscription_pay_btn{
+	padding-top:10px !important;
+}
+.input-group-text{
+	padding:12px;
+}
+.exp-wrapper {
+	position: relative;
+	border: 1px solid #aaa;
+	display: flex;
+	width: 100px;
+	justify-content: space-around;
+	height: 36px;
+	line-height: 36px;
+	font-size: 12px;
+}
+
+.exp-wrapper:after {
+	content: '/';
+	position: absolute;
+	left: 50%;
+	margin-left: -4px;
+	color: #aaa;
+}
+
+input.exp {
+	float: left;
+	font-family: monospace;
+	border: 0;
+	width: 45px;
+	outline: none;
+	appearance: none;
+	font-size: 12px;
+}
+
+.parsley-errors-list{
+	color: rgb(255, 0, 0);
+}
+.star{
+	color: rgb(255, 0, 0);
+}
